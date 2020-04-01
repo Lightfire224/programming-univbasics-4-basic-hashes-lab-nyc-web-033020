@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  {:okay => okay}
+  {:okay => "okay"}
 end
 
 def pioneer
